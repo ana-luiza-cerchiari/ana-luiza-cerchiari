@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Luiza%20Cerchiari%20de%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-cerchiari-ti)
 
-# Ana Luiza Cerchiari de Andrade 
 
 - Atuação profissional em **containers, cloud e infraestrutura**.
 - Experiência profissional com **SRE, Kubernetes, Kafka, AWS**
