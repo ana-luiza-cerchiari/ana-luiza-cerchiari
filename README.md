@@ -1,19 +1,34 @@
-## Hi there 👋
+# Ana Luiza Cerchiari de Andrade
 
+Cloud | SRE | Kubernetes | AWS | Event-Driven Architecture  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Luiza%20Cerchiari%20de%20Andrade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-cerchiari-ti)
 
+---
+
+Cloud Architecture  
+Site Reliability Engineering  
+DevOps  
+AWS  
+Kubernetes  
+Kafka  
+
+---
+
+## Sobre
 
 - Atuação profissional em **containers, cloud e infraestrutura**.
-- Experiência profissional com **SRE, Kubernetes, Kafka, AWS**
+- Experiência profissional com **SRE, Kubernetes, Kafka, AWS**.
 - Arquitetura de soluções **orientadas a eventos** com **NATS, CloudEvents e Event Sourcing**.
-- Empresas que ja trabalhei: **Itaú, Bradesco, Santander, Porto Seguro, SulAmérica**, entre outras.
-- **Hobbies:** · Corrida · Esportes náuticos · Jogar Tênis 🎾 · 📚 Leitura · 📖 Estudos
+- Empresas que já trabalhei: **Itaú, Bradesco, Santander, Porto Seguro, SulAmérica**, entre outras.
+- **Hobbies:** Corrida · Esportes náuticos · Jogar Tênis 🎾 · 📚 Leitura · 📖 Estudos
 
-# Estudos relacionados a tecnologias
+---
 
-- **TOTVS Protheus** 
-- **Advanced Protheus Language** 
+## Estudos relacionados a tecnologias
+
+- **TOTVS Protheus**
+- **Advanced Protheus Language**
 - **Windows Server** (Impacta e mais duas instutuições)
 - **Java** (Impacta)
 - **MongoDB, MySQL, Oracle e SQLServer** (4Linux)
@@ -31,7 +46,8 @@
 - **Redes e Fibra** (Domínio Tecnologia)
 - **Notebook** (SENAI)
 - Etc.
----
+
+
 # 🎓 Formação Cisco Networking Academy 
 
 Detalhamento da formação técnica presencial e completa realizada através da **Cisco Networking Academy (NetAcad)** em parceria com o **SENAC**. A formação **Cisco Certified Network Associate (CCNA)** pela Networking Academy é reconhecida pelo seu rigor técnico e abordagem prática. ).
